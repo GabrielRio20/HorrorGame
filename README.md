@@ -7,6 +7,9 @@ This game follows a detective investigating a murder case in a remote region. Up
 - **Movement:** WASD + Mouse
 - **Interact Item:** E
 
+## Download Build
+[Download the Playable Build Here](https://drive.google.com/file/d/1WsjTJb9kLOKcCqd1NJaVnnH1QTmVMD2Q/view?usp=sharing)
+
 ## How to Run
 1. Extract and open the `BuildGame` folder.
 2. Navigate to the `Windows` folder.
